@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @riskiakbar279
-- 👀 I’m interested in WRKS
-- 🌱 I’m currently learning Fisika
-- 💞️ I’m looking to collaborate on BENGKULU CYBER TEAM
-- 📫 How to reach me not now
+- 👋 hai saya @riskiakbar279
+- 👀 saya aktif di forum ETCH.indonesia
+- 🌱 Saya sedang mengembangkan Teknologi
+
 
 <!---
 riskiakbar279/riskiakbar279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
