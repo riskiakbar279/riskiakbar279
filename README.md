@@ -1,5 +1,5 @@
 - 👋 hai saya @riskiakbar279
-- 👀 saya aktif di forum NIKOLA TESLA & ETIKA HACKER INDONESIA
+- 👀 saya aktif di forum NIKOLA TESLA 
 - 🌱 Saya sedang mengembangkan Teknologi
 
 
